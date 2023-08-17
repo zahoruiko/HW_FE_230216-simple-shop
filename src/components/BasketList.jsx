@@ -16,7 +16,7 @@ const BasketList = (props) => {
 
   return (
     <ul className="collection basket-list">
-      <li className="collection-item active deep-purple">Корзина</li>
+      <li className="collection-item active deep-purple">Cart</li>
       {order.length ? (
         order.map((orderItem) => (
           <BasketItem
@@ -27,10 +27,10 @@ const BasketList = (props) => {
           />
         ))
       ) : (
-        <li className="collection-item">Корзина пуста</li>
+        <li className="collection-item">The cart is empty</li>
       )}
-      <li className="collection-item deep-purple active">Общая стоимость: {totalPrice} руб.
-      <button onClick={handleCheckout}>Оформить покупку!</button></li>
+      <li className="collection-item deep-purple active">Total cost: ${totalPrice}
+      <button onClick={handleCheckout}>Make a purchase!</button></li>
       <i className="material-icons basket-close" onClick={handleBasketShow}>
         close
       </i>
