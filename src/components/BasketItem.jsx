@@ -20,7 +20,7 @@ const BasketItem = (props) => {
       <i className="material-icons item-change" onClick={() => changeQuantity(id, '+')}>
         add
       </i>{' '}
-      = {price * quantity} руб.
+      = ${price * quantity}
       <span className="secondary-content item-delete">
         <i className="material-icons" onClick={() => removeFromBasket(id)}>
           close
