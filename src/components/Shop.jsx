@@ -35,13 +35,13 @@ const Shop = () => {
       })
       setOrder(newOrder);
     }
-    setAlertText(`${item.name} добавлен в корзину`);
+    setAlertText(`${item.name} added to the basket`);
   }
 
   const handleCheckout = () => {
     setBasketShow(!isBasketShow);
     setOrder([]);
-    setAlertText(`Спасибо за покупку!`);
+    setAlertText(`Thank you for your purchase!`);
     
   }
 
