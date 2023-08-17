@@ -17,8 +17,8 @@ const GoodItem = (props) => {
             id,
             name,
             price
-        })} className="btn">Купить</button>
-        <span className="right" style={{fontSize: '1.5rem'}}>{price} руб.</span>
+        })} className="btn">Buy</button>
+        <span className="right" style={{fontSize: '1.5rem'}}>${price}</span>
       </div>
     </div>
   )
