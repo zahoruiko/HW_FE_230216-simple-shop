@@ -1,13 +1,13 @@
 {
-  "main.css": "/HW_FE_230216-shop/static/css/main.7d2c676d.chunk.css",
-  "main.js": "/HW_FE_230216-shop/static/js/main.8f1a2035.chunk.js",
-  "main.js.map": "/HW_FE_230216-shop/static/js/main.8f1a2035.chunk.js.map",
-  "static/js/1.71d1f426.chunk.js": "/HW_FE_230216-shop/static/js/1.71d1f426.chunk.js",
-  "static/js/1.71d1f426.chunk.js.map": "/HW_FE_230216-shop/static/js/1.71d1f426.chunk.js.map",
-  "runtime~main.js": "/HW_FE_230216-shop/static/js/runtime~main.b5f85c69.js",
-  "runtime~main.js.map": "/HW_FE_230216-shop/static/js/runtime~main.b5f85c69.js.map",
-  "static/css/main.7d2c676d.chunk.css.map": "/HW_FE_230216-shop/static/css/main.7d2c676d.chunk.css.map",
-  "index.html": "/HW_FE_230216-shop/index.html",
-  "precache-manifest.1886e688a51af44710c42c09d473caf9.js": "/HW_FE_230216-shop/precache-manifest.1886e688a51af44710c42c09d473caf9.js",
-  "service-worker.js": "/HW_FE_230216-shop/service-worker.js"
+  "main.css": "/HW_FE_230216-simple-shop/static/css/main.afb80742.chunk.css",
+  "main.js": "/HW_FE_230216-simple-shop/static/js/main.11c2d02b.chunk.js",
+  "main.js.map": "/HW_FE_230216-simple-shop/static/js/main.11c2d02b.chunk.js.map",
+  "static/js/1.71d1f426.chunk.js": "/HW_FE_230216-simple-shop/static/js/1.71d1f426.chunk.js",
+  "static/js/1.71d1f426.chunk.js.map": "/HW_FE_230216-simple-shop/static/js/1.71d1f426.chunk.js.map",
+  "runtime~main.js": "/HW_FE_230216-simple-shop/static/js/runtime~main.21787385.js",
+  "runtime~main.js.map": "/HW_FE_230216-simple-shop/static/js/runtime~main.21787385.js.map",
+  "static/css/main.afb80742.chunk.css.map": "/HW_FE_230216-simple-shop/static/css/main.afb80742.chunk.css.map",
+  "index.html": "/HW_FE_230216-simple-shop/index.html",
+  "precache-manifest.32bd44b4f2fc7f81e16d7805dab6504a.js": "/HW_FE_230216-simple-shop/precache-manifest.32bd44b4f2fc7f81e16d7805dab6504a.js",
+  "service-worker.js": "/HW_FE_230216-simple-shop/service-worker.js"
 }
